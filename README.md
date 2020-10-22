@@ -1,7 +1,7 @@
 # voice-navigation-for-website
 A simple voice based navigation system for your website
 
-Completely hands free navigation for you website!
+Completely hands free navigation system using voice commands!
 
 Just Speak out the commands!
 
@@ -40,7 +40,7 @@ Commands to try:
 
 ☐	Open tab *(tab name)
 
-☐	Dark mode, Light mode
+☐	Dark mode, Light mode(while watching video)
 
 ☐	Download all commands file
 
